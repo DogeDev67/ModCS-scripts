@@ -6,6 +6,7 @@ function ModCS.Game.DrawBelowFade()
         ModCS.PutText("Deaths: " .. tostring(deaths), 135, 0)
         
     end
+    ModCS.PutText("Money: " .. GMoney, 250, 20)
 
 
 end

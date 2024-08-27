@@ -1,12 +1,9 @@
 require("HUD")
 require("player")
 require("TSC")
-require("sword")
-require("SinCos")
 require("dash")
-require("camera")
 require("Accelerator")
---require("topdown_movement")
+require("shop")
 
 
 function ModCS.Mod.Init()

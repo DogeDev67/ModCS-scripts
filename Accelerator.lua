@@ -47,6 +47,8 @@ ModCS.Arms.Shoot[2] = function ()
 end
 
 
+
+
 function ModCS.Game.Act()
     shoot_cooldown = shoot_cooldown + 1
     if spurMode == false then

@@ -1,6 +1,7 @@
 jumpsLeft = 1
-canDoubleJump = false
+canDoubleJump = true
 
+GMoney = 0
 
 
 function ModCS.Game.Act()
